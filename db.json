@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "muse ",
+      "price": 500,
+      "discription": "discription 1" 
+    },{
+      "id": 2,
+      "title": "kybord ",
+      "price": 800,
+      "discription": "discription 2" 
+    },{
+      "id": 3,
+      "title": "monitor",
+      "price": 600,
+      "discription": "discription 3" 
+    },{
+      "id": 4,
+      "title": "modem adsl",
+      "price": 400,
+      "discription": "discription 4" 
+    }
+  ],
+
+  "blogs":
+  [
+    {
+      "id": 1,
+      "title": "React Curse ",
+      "categorie": "front-end",
+      "discription": "discription React" 
+    },
+    {
+      "id": 2,
+      "title": "NextJs Curse ",
+      "categorie": "back-end",
+      "discription": "discription NextJs" 
+    },
+    {
+      "id": 3,
+      "title": "GitHub Curse ",
+      "categorie": "fullstack",
+      "discription": "discription GitHub" 
+    },
+    {
+      "id": 4,
+      "title": "teilwand Curse ",
+      "categorie": "front-end",
+      "discription": "discription teilwand" 
+    }, 
+     {
+      "id": 5,
+      "title": "nodejs Curse ",
+      "categorie": "back-end",
+      "discription": "discription nodejs" 
+    }
+  ],
+  "profile":[
+    {
+      "name" : "mohamad" ,
+      "email":"mohamad@gmail.com",
+      "transaction":15,
+      "balance":100,
+      "products": 5
+    }
+  ]
+}
